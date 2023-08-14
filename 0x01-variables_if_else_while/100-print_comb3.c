@@ -30,6 +30,8 @@ int main(void)
 			}
 			digit2++;
 		}
+		digit1++;
+	}
 	putchar('\n');
 
 	return (0);
