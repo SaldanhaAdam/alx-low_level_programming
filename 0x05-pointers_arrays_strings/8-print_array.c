@@ -1,10 +1,10 @@
 #include "main.h"
 
 /**
- * print_arrar - a function that prints n elements of an array of integers
+ * print_array - a function that prints n elements of an array of integers
  *
- * @a: input parameter 1
- * @n: input parameter 2
+ * @a: element input parameter
+ * @n: string input parameter
  *
  * Return: Nothing
 */
@@ -20,5 +20,5 @@ void print_array(int *a, int n)
 		else
 			printf("%d", a[i]);
 	}
-	printf('\n');
+	printf("\n");
 }
