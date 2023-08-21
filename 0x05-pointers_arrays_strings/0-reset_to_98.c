@@ -1,0 +1,17 @@
+#include"main.h"
+
+/**
+ * reset_to_98 - Entry point
+ *
+ * Description: a function that takes a pointer to an int as
+ * parameter and updates the value it points to to 98
+ *
+ * @n: int parameter
+ *
+ * Return: Nothing
+*/
+
+int reset_to_98(int *n)
+{
+	int *n = 98
+}
