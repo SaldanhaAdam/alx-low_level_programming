@@ -1,4 +1,4 @@
-#include"main.h"
+#include "main.h"
 
 /**
  * reset_to_98 - Entry point
@@ -11,7 +11,7 @@
  * Return: Nothing
 */
 
-int reset_to_98(int *n)
+void reset_to_98(int *n)
 {
 	int *n = 98
 }
